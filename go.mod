@@ -36,5 +36,6 @@ require (
 	github.com/jackc/pgtype v1.7.0 // indirect
 	github.com/jackc/pgx/v4 v4.11.0 // indirect
 	github.com/jinzhu/now v1.1.2 // indirect
+	github.com/vearne/gin-timeout v0.0.7
 	golang.org/x/text v0.3.3 // indirect
 )

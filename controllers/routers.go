@@ -10,5 +10,6 @@ func bookDefineRouters(router *gin.Engine) {
 	group := router.Group("/book")
 	{
 		group.POST("", CreateBook)
+		group.GET("", FindAllBook)
 	}
 }
