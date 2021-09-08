@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#963d02",
+        "titleBar.activeBackground": "#ceca03",
+        "titleBar.activeForeground": "#F7FCF9"
+    },
+    "colorWheel.settings.workspaceColor": "hsl(324,46%,16%)"
+}
